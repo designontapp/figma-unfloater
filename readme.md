@@ -26,3 +26,4 @@ You can see all the files inside this installation. It's one CSS file, one JSON 
 
 ### Chrome Web Store
 I'm working to get this put on the Chrome Web store.
+]
