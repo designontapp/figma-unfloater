@@ -2,7 +2,7 @@
 The Figma Unfloater changes Figma UI3, making the new floating sidebars stop floating on any Figma design files.
 
 ## Credits
-The CSS was written by @imkylelambert. 
+The CSS was written by @imkylelambert (twitter), for use in an Arc Boost.
 
 ## Installation
 1. Clone the repository. If you've never used GitHub before, it's explained below.
@@ -27,3 +27,11 @@ There are also two .git files, which you can delete when you install. They set u
 
 ### Chrome Web Store
 I'm working to get this put on the Chrome Web store.
+
+## Make your own contributions
+**To find things to work on:**
+click [Issues](https://github.com/designontapp/figma-unfloater/issues).
+
+**To make your own edits:**
+Above the green Code button, press Fork to make your own copy.
+Once you've made your edits, you can request to merge your changes by creating a pull request.
