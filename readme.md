@@ -27,4 +27,3 @@ There are also two .git files, which you can delete when you install. They set u
 
 ### Chrome Web Store
 I'm working to get this put on the Chrome Web store.
-]
