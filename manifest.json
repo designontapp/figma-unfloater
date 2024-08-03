@@ -1,0 +1,12 @@
+{
+    "name" : "Unfloater",
+    "version" : "0.0.1",
+    "manifest_version" : 3,
+    "description" : "Stops the floating sidebars in Figma UI3.",
+    "content_scripts" : [
+        {
+            "matches" : ["*://www.figma.com/design/*"],
+            "css" : ["styles.css"]
+        }
+    ]
+}
