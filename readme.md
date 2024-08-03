@@ -19,7 +19,8 @@ If you've never used GitHub before, press the big green Code button.
 Under the URL, select `Download Zip`.
 
 ### How do I know this file is safe?
-You can see all the files inside this installation. It's one CSS file, one JSON file, and one MD file. 
+You can see all the files inside this installation. It's one CSS file, one JSON file, and one MD file.
+There are also two .git files, which you can delete when you install. They set up this hosting on GitHub.
 * Read through the CSS file. You can read and see that it only edits the properties of sidebar elements.
 * Read the JSON file. You can see information about Chrome extension requirements, and that on sites `*://figma.com/design/*`, the CSS `styles.css` should be run.
 * Read the MD file. It's just this description!
