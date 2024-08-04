@@ -5,7 +5,7 @@ The Figma Unfloater changes Figma UI3, making the new floating sidebars stop flo
 The CSS was written by @imkylelambert (twitter), for use in an Arc Boost.
 
 ## Installation
-1. Clone the repository. If you've never used GitHub before, it's explained below.
+1. Clone the repository. Press [Code -> Install as Zip](https://github.com/designontapp/figma-unfloater/archive/refs/heads/main.zip), or use Git if you're a pro!
 2. Once you've saved the repository in a sensible place (not downloads), you're ready for the next step.
 3. Go to chrome://extensions
 4. Turn on Developer Mode in the top right.
@@ -13,10 +13,6 @@ The CSS was written by @imkylelambert (twitter), for use in an Arc Boost.
 6. Select the Unfloater folder.
 
 You're good to go!
-
-### Cloning a repository
-If you've never used GitHub before, press the big green Code button.
-Under the URL, select `Download Zip`.
 
 ### How do I know this file is safe?
 You can see all the files inside this installation. It's one CSS file, one JSON file, and one MD file.
